@@ -40,3 +40,8 @@ yay -S universal-ctags-git
 
 Hacemos un `:PlugInstall` dentro de vim
 
+# Atajos
+![Nvim1](./2021-10-31-214357_437x407_scrot.png)
+<br>
+![Nvim2](./2021-10-31-214404_459x220_scrot.png)
+
