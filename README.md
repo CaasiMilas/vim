@@ -47,11 +47,46 @@ yay -S universal-ctags-git
 Hacemos un `:PlugInstall` dentro de vim
 
 # Atajos
-![Nvim1](./2021-10-31-214357_437x407_scrot.png)
-<br>
-![Nvim2](./2021-10-31-214404_459x220_scrot.png)
 
+| Comandos                | Que hacen                      | 
+|-------------------------|--------------------------------|
+|**hjkl**               	| Desplazamiento                 |
+|**w e b**                | Movimiento entre palabras y esp|
+|**[]**                   | Movimento por el codigo        |
+|**{}**                   | Navegar entre bloques de codigo|
+|**o**                  	| Escribir debajo de una linea   |
+|**shift o**              | Escribir arriba de una linea   |
+|**control + c**          | Salir de cualquier modo        |
+|**control + v**          | Modo de visual                 |
+|**d**                  	| Borrar & char de mov. y desp.  |
+|**dd**                  	| Borrar una linea               |
+|**x**                  	| Borrar un caracter             |
+|**X**                  	| Borrar un caracter anterior    |
+|**$**                  	| Final de una linea             |
+|**p**                    | Pegar el codigo                |
+|**shift + p**          	| Pegar antes de                 |
+|**i**                    | Escribir                       |
+|**shift + i**           	| Escribir al inicio de una linea|
+|**a**                    | Escribir despues               |
+|**shift + a**            | Escribir al final de una linea |
+|**r**                    | Reemplazar una letra           |
+|**shift + r**            | Reemplazar un elemento         |
+|**u**                    | Undo                           |
+|**control + r**          | Reundo                         |
+|**space + ,**            | copia una linea de bajo        |
+|**space + n**            | Abre el buscador de archivos   |
+|**%s/palabra1/palabra/g**| cambia palabra1 por la palabra |
+|**yy y p**               | copia una linea                | 
+|**yNUMEROy y p**         | copia multiples lineas         |
 
-|comando|que hace   |
-|-------|-----------|
-|hjkl   | movimiento|
+**Coc gestion para lenguajes**
+| Lenguajes               | Que hacen                      |
+|-------------------------|--------------------------------|
+|**CocInstall**           | Instala los lenguajes          |
+|**CocList**              | Listado de las opciones        |
+|**Coclist>extensiones**  | Listado de los lenguajes       |
+|**CocUpdate**            | Actualiza paquetes de lenguajes|
+
+**buscar coc vim para ver las opciones de los lenguajes**
+</br>
+`Ver en CocList>extensiones si esta habilitado el lenguaje`
