@@ -1,8 +1,14 @@
 # vim
 # Instalamos vim
 
+Para distribuciones de Arch
 ```
 sudo pacman -S neovim
+```
+
+Para distribuciones de Debian
+```
+sudo apt-get install neovim
 ```
 
 ## Instalamos ranger
