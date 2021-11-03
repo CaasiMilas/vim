@@ -76,6 +76,20 @@ Abrimos neovim en la terminal y escribimos
 ```
 :CocInstall coc-json coc-tsserver
 ```
+
+## Problemas de archivos con Coc
+Si tenemos problemas de archivos con Coc ejecutar:
+```
+:CocList folders
+```
+**Seleccionamos el path en el que estamos trabajando ejemplo:** `/home/user/python`
+
+Despues reiniciamos Coc
+```
+:CocRestart
+```
+
+
 # Atajos
 
 | Comandos dentro de vim  | Que hacen                      | 
