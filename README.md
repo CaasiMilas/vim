@@ -5,7 +5,7 @@
 </p>
        
               
-# Instalamos vim
+# Instalamos neovim en Linux
 
 Para distribuciones de Arch
 ```
