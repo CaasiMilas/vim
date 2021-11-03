@@ -85,9 +85,9 @@ Abrimos neovim en la terminal y escribimos
 |**[]**                   | Movimento por el codigo        |
 |**{}**                   | Navegar entre bloques de codigo|
 |**o**                  	| Escribir debajo de una linea   |
-|**shift o**              | Escribir arriba de una linea   |
-|**control + c**          | Salir de cualquier modo        |
-|**control + v**          | Modo de visual                 |
+|**shift + o**            | Escribir arriba de una linea   |
+|**ctrl + c**             | Salir de cualquier modo        |
+|**ctrl + v**             | Modo de visual                 |
 |**d**                  	| Borrar & char de mov. y desp.  |
 |**dd**                  	| Borrar una linea               |
 |**x**                  	| Borrar un caracter             |
@@ -95,7 +95,7 @@ Abrimos neovim en la terminal y escribimos
 |**$**                  	| Final de una linea             |
 |**p**                    | Pegar el codigo                |
 |**shift + p**          	| Pegar antes de                 |
-|**i**                    | Escribir                       |
+|**i**                    | Escribir antes                 |
 |**shift + i**           	| Escribir al inicio de una linea|
 |**a**                    | Escribir despues               |
 |**shift + a**            | Escribir al final de una linea |
@@ -117,6 +117,7 @@ Abrimos neovim en la terminal y escribimos
 |**Coclist>extensiones**  | Listado de los lenguajes       |
 |**CocUpdate**            | Actualiza paquetes de lenguajes|
 
-**buscar coc vim para ver las opciones de los lenguajes**
+### Buscar coc vim para ver las opciones de los lenguajes
+https://github.com/neoclide/coc.nvim/wiki/Language-servers
 </br>
 `Ver en CocList>extensiones si esta habilitado el lenguaje`
