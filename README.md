@@ -17,7 +17,7 @@ Para distribuciones de Debian
 sudo apt-get install neovim
 ```
 
-## Instalamos ranger
+### Instalamos ranger
 
 Para ditribuciones de Arch
 ```
