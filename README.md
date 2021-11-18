@@ -164,6 +164,15 @@ Despues reiniciamos Coc
 |**CocList**              | Listado de las opciones        |
 |**Coclist>extensiones**  | Listado de los lenguajes       |
 |**CocUpdate**            | Actualiza paquetes de lenguajes|
+## **Map extensions vim**
+| Explorer file           | Que hacen                      |
+|-------------------------|--------------------------------|
+|**:e + espacio + ctrl+d**| Abre un apartado de archivos   |
+| NerdTree                | Que hacen                      |
+|-------------------------|--------------------------------|
+|**espacio + n**          | Abre el explorador de archivos |
+
+
 
 ### Buscar coc vim para ver las opciones de los lenguajes
 https://github.com/neoclide/coc.nvim/wiki/Language-servers
