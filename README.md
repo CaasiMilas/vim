@@ -43,7 +43,7 @@ sudo pacman -S nodejs npm python python-pip ruby rubygems
 ```
 Para distribuciones de Debian
 ```
-sudo apt-get install nodejs npm python python3-pip ruby rubygems
+sudo apt-get install nodejs npm python3-pip ruby rubygems
 ```
 
 ### Descargando paquetes de neovim
