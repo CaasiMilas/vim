@@ -49,8 +49,8 @@ sudo apt-get install nodejs npm python3-pip ruby rubygems
 ### Descargando paquetes de neovim
 
 ```
-pip install neovim
-gem install neovim
+sudo pip install neovim
+sudo gem install neovim
 sudo npm i -g neovim
 ```
 
