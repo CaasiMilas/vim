@@ -169,9 +169,10 @@ Despues reiniciamos Coc
 |-------------------------|--------------------------------|
 |**:e + espacio + ctrl+d**| Abre un apartado de archivos   |
 | NerdTree                | Que hacen                      |
+## Keys
+|Key                      | Action                         |
 |-------------------------|--------------------------------|
 |**espacio + n**          | Abre el explorador de archivos |
-|-------------------------|--------------------------------|
 |**space + f**            | Fuzzy search                   |
 |**space + /**            | Comenta la linea seleccionada  |
 |**space + n**            | NerdTree                       |
