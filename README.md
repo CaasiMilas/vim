@@ -171,6 +171,12 @@ Despues reiniciamos Coc
 | NerdTree                | Que hacen                      |
 |-------------------------|--------------------------------|
 |**espacio + n**          | Abre el explorador de archivos |
+|-------------------------|--------------------------------|
+|**space + f**            | Fuzzy search                   |
+|**space + /**            | Comenta la linea seleccionada  |
+|**space + n**            | NerdTree                       |
+|**space + p**            | Format con prettier            |
+|**shift + k**            | Documentacion                  |
 
 
 
