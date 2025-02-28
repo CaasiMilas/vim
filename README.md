@@ -58,7 +58,8 @@ sudo npm i -g neovim
 
 Para distribuciones de Arch
 ``` 
-sudo pacman -S xsel fzf ripgrep fd the_silver_searcher prettier 
+sudo pacman -S xsel fzf ripgrep fd the_silver_searcher
+sudo npm install --save-dev --save-exact prettier
 yay -S universal-ctags-git 
 ``` 
 ```
